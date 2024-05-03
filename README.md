@@ -14,6 +14,6 @@ For the first task of the internship, each intern was required to create a basic
 This project is part of my learning journey during the internship at Octanet, where I am gaining practical experience in web development.
 
 ### Project Structure:
-- **Landing.html**: Main HTML file for the landing page.
+- **index.html**: Main HTML file for the landing page.
 - **styles.css**: CSS file for styling the landing page.
   
