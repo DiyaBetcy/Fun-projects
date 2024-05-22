@@ -15,5 +15,5 @@ This project is part of my learning journey during the internship at Octanet, wh
 
 ### Project Structure:
 - **index.html**: Main HTML file for the landing page.
-- **styles.css**: CSS file for styling the landing page.
+- **style.css**: CSS file for styling the landing page.
   
