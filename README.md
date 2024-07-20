@@ -1,6 +1,6 @@
-## OCTANET_MAY
+## fun Projects
 
-This repository is created for the Octanet internship program in web development. The goal of this repository is to showcase the work completed during the internship tasks.
+This repository is created for the programs in web development.
 
 ### Task 1: Seven Wonders of the World Landing Page
 
